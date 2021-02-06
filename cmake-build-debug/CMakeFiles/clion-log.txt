@@ -1,0 +1,4 @@
+/home/shashank/Desktop/CLion-2020.3/clion-2020.3/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/shashank/Documents/c-linux-sockets-exp
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/shashank/Documents/c-linux-sockets-exp

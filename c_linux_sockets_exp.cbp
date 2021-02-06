@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="c_linux_sockets_exp"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/shashank/Documents/c-linux-sockets-exp"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/shashank/Documents/c-linux-sockets-exp/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/shashank/Documents/c-linux-sockets-exp/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/shashank/Documents/c-linux-sockets-exp/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/shashank/Documents/c-linux-sockets-exp/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/shashank/Documents/c-linux-sockets-exp"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/shashank/Documents/c-linux-sockets-exp/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/shashank/Documents/c-linux-sockets-exp/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/shashank/Documents/c-linux-sockets-exp/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/shashank/Documents/c-linux-sockets-exp/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/shashank/Documents/c-linux-sockets-exp"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/shashank/Documents/c-linux-sockets-exp/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/shashank/Documents/c-linux-sockets-exp/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/shashank/Documents/c-linux-sockets-exp/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/shashank/Documents/c-linux-sockets-exp/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="c_linux_sockets_exp">
+				<Option output="/home/shashank/Documents/c-linux-sockets-exp/c_linux_sockets_exp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/shashank/Documents/c-linux-sockets-exp"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/shashank/Documents/c-linux-sockets-exp/Makefile&quot;  VERBOSE=1 c_linux_sockets_exp"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/shashank/Documents/c-linux-sockets-exp/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/shashank/Documents/c-linux-sockets-exp/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/shashank/Documents/c-linux-sockets-exp/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="c_linux_sockets_exp/fast">
+				<Option output="/home/shashank/Documents/c-linux-sockets-exp/c_linux_sockets_exp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/shashank/Documents/c-linux-sockets-exp"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/shashank/Documents/c-linux-sockets-exp/Makefile&quot;  VERBOSE=1 c_linux_sockets_exp/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/shashank/Documents/c-linux-sockets-exp/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/shashank/Documents/c-linux-sockets-exp/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/shashank/Documents/c-linux-sockets-exp/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/shashank/Documents/c-linux-sockets-exp/utils/list_adapters.c">
+			<Option target="c_linux_sockets_exp"/>
+		</Unit>
+		<Unit filename="/home/shashank/Documents/c-linux-sockets-exp/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
