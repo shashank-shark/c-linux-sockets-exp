@@ -1,1 +1,0 @@
-/usr/bin/cc -g   CMakeFiles/c_linux_sockets_exp.dir/list_adapters.c.o CMakeFiles/c_linux_sockets_exp.dir/main.c.o  -o c_linux_sockets_exp 

@@ -1,3 +1,0 @@
-/home/shashank/Documents/c-linux-sockets-exp/CMakeFiles/rebuild_cache.dir
-/home/shashank/Documents/c-linux-sockets-exp/CMakeFiles/edit_cache.dir
-/home/shashank/Documents/c-linux-sockets-exp/CMakeFiles/c_linux_sockets_exp.dir
