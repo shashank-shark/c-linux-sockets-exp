@@ -15,7 +15,7 @@ int main() {
     while (traverser) {
         int family = traverser -> ifa_addr -> sa_family;
         if (family == AF_INET || family == AF_INET6) {
-            printf ("#################################\n");
+            printf ("--------------------------------------------------------------------------------\n");
             printf ("Adapter Name : %s\n", traverser -> ifa_name);
             printf("IP Protocol Version : %s\n", (family == AF_INET ? "IPV4" : "IPV6"));
             const int family_size = family == AF_INET ? sizeof (struct sockaddr_in) : sizeof (struct sockaddr_in6);
